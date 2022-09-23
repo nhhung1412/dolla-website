@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/dolla-website-react-scroll/static/css/main.fa51820d.css",
+    "main.js": "/dolla-website-react-scroll/static/js/main.04d30e52.js",
+    "static/media/Video.mp4": "/dolla-website-react-scroll/static/media/Video.7d1ea6a94986d5c2a068.mp4",
+    "static/media/svg-6.svg": "/dolla-website-react-scroll/static/media/svg-6.2667b3e7d112b953a08944c5ede6919a.svg",
+    "static/media/svg-3.svg": "/dolla-website-react-scroll/static/media/svg-3.a5a1fcd1853788c0ec9e48aa2315c1b9.svg",
+    "static/media/svg-4.svg": "/dolla-website-react-scroll/static/media/svg-4.93721cd59bbba3391f37036a14984be1.svg",
+    "static/media/svg-5.svg": "/dolla-website-react-scroll/static/media/svg-5.0d5eafcfa1b4a30e0bbdaeb28bff572e.svg",
+    "static/media/svg-1.svg": "/dolla-website-react-scroll/static/media/svg-1.4db3168afe677e4b85027f1d6834866d.svg",
+    "static/media/svg-2.svg": "/dolla-website-react-scroll/static/media/svg-2.4f2fe5767525b36fa91f308501ed8454.svg",
+    "index.html": "/dolla-website-react-scroll/index.html",
+    "main.fa51820d.css.map": "/dolla-website-react-scroll/static/css/main.fa51820d.css.map",
+    "main.04d30e52.js.map": "/dolla-website-react-scroll/static/js/main.04d30e52.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa51820d.css",
+    "static/js/main.04d30e52.js"
+  ]
+}
